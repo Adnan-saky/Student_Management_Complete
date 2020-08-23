@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525600210982",
+    "firebase_url": "https://firestore-crud-modified-apuvai.firebaseio.com",
+    "project_id": "firestore-crud-modified-apuvai",
+    "storage_bucket": "firestore-crud-modified-apuvai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525600210982:android:737a3c616850d8d96a66e7",
+        "android_client_info": {
+          "package_name": "com.example.crud_modify_apuvai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525600210982-n4o0np2qs03t9bj79s7dfjb8kh9bu0p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_modify_apuvai",
+            "certificate_hash": "db51cdb1c3a4ca51af78d06493d07dc8020efe9b"
+          }
+        },
+        {
+          "client_id": "525600210982-5d1fie1pvllg85ah74vqpi8gk13kc1op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPb5vkqPPOMf74q9Z9BNHKuyV1M1c9t3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525600210982-5d1fie1pvllg85ah74vqpi8gk13kc1op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
